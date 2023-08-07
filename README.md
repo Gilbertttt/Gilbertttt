@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gilbertttt
+- 👋 Hi, I’m Gilbert
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Website Designing
 - 💞️ I’m looking to collaborate on ...
